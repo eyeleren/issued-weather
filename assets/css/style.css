@@ -100,6 +100,7 @@ button:hover {
 .weather.loading:after {
   visibility: visible;
   content: "Servizio offerto da openweather.org";
+  font-size: small;
   color: white;
   position: absolute;
   top: 0;
