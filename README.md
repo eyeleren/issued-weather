@@ -1,3 +1,3 @@
-# weather.io
+# issued-weather
 
-weather application
+javascript weather application
